@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta charset="UTF-8" />
+	<title>Maids in Georgia</title>
+	<link rel="stylesheet" href="themes/MaidsInGeorgia/shortcodes.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="themes/MaidsInGeorgia/style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="themes/MaidsInGeorgia/styles/MaidsInGA2.css" type="text/css" media="screen" />
+	<link rel="shortcut icon" href="images/MaidsInGA-Favicon.png" />
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+	<script type="text/javascript" src="engine1/custom.js"></script>
+
+	
+	<style type="text/css">
+		.logo { position: absolute !important; top: 5px !important; left: 0px !important; }
+		#header { height: 100px !important; }
+		.jqueryslidemenu ul > li a { padding: 40px 0px !important; } 
+
+		.jqueryslidemenu ul > li a { color: white; }
+		.jqueryslidemenu ul > li a:hover { color: #999 !important; }
+		.current-menu-item a span { color: #999 !important; }
+
+		.pullquote, .pullquote2, .pullquote3 {
+  			font-family: Philosopher, Helvetica, Arial, sans-serif;
+		}
+	</style>
+<!--
+<script type="text/javascript">
+$(document).ready(function() {
+   alert("jQuery esta funcionando !!");
+ });
+</script>
+-->
+	<link rel='stylesheet' id='mysite_prettyphoto-css'  href='themes/MaidsInGeorgia/lib/scripts/prettyphoto/css/prettyPhoto.css' type='text/css' media='screen' />
+	<link rel='stylesheet' id='googlefonts-css'  href='http://fonts.googleapis.com/css?family=Philosopher:400|Cabin:400,400italic,500,500italic,600,600italic,700,700italic' type='text/css' media='all' />	
+	
+	<style type='text/css' media='screen'>
+		h1{ font-family:"Philosopher", arial, sans-serif;}
+		h2{ font-family:"Philosopher", arial, sans-serif;}
+		h3{ font-family:"Philosopher", arial, sans-serif;}
+		h4{ font-family:"Philosopher", arial, sans-serif;}
+		h5{ font-family:"Philosopher", arial, sans-serif;}
+		h6{ font-family:"Philosopher", arial, sans-serif;}
+		body{ font-family:"Cabin", arial, sans-serif;}
+		p{ font-family:"Cabin", arial, sans-serif;}
+	</style>
+	<meta name="description" content="Your trusted cleaning service in Cumming, Johns Creek, Alpharetta, Roswell, Duluth, Sugar Hill, and Suwanee" />
+	<meta name="keywords" content="cleaning service, home cleaners, maid service, house cleaning, office cleaning, maids, maid, cleaning, clean home, home cleaning, alpharetta maids, cumming maids, roswell maids, duluth maids, sugar hill maids, johns creek maids, suwanee maids" />
+	<link rel="canonical" href="index.html" />
+
+
+
+
+</head>
+
+<body class="has_slider fading_slider slider_nav_dots is_home full_width has_intro has_outro">
+	<div class="multibg">	
+		<div class="multibg"></div>
+	</div>
+
+
+<div id="body_inner">
+	
+<div id="header">
+	<div id="header_inner">
+		<div class="logo">
+			<a rel="home" href="index.html" class="site_logo">
+				<img src="images/MaidsInGA-Logo-425x80.png" alt="Maids in Georgia"  />
+			</a>
+		</div><!-- .logo -->
+		<div id="primary_menu">
+			<div class="jqueryslidemenu">
+				<ul id="menu-main-menu" class="">
+					<li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home">
+						<a href="index.html"><span>Home</span></a>
+					</li>
+					<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page">
+						<a href="/about-us/"><span>About</span></a>
+					</li>
+					<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page">
+						<a href="/residential/"><span>Residential</span></a>
+					</li>
+					<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page">
+						<a href="/commercial/"><span>Commercial</span></a>
+					</li>
+					<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page">
+						<a href="/faq/"><span>FAQ</span></a>
+					</li>
+					<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page">
+						<a href="/contact/"><span>Contact</span></a>
+					</li>
+				</ul>
+			</div>
+			<div class="clearboth"></div>
+		</div><!-- #primary_menu -->
+	</div><!-- #header_inner -->
+</div><!-- #header -->
+	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+		<li><img src="data1/images/cleanliving567x334.jpg" alt="Experience the Good Life!" title="Experience the Good Life!" id="wows1_0"/>Maids in Georgia has the most professional Atlanta Maid Service in the area! We are a company committed to excellent customer service, at an affordable price and a 100% satisfaction guarantee with our Maid Service. ​Get your free quote today!</li>
+		<li><img src="data1/images/satisfactionguaranteed498x400.png" alt="Why Us?" title="Why Us?" id="wows1_1"/>That's a great question. We know how much your home means to you and know how much trust is involved in allowing us in. We would love the opportunity to provide you with a reliable service and the peace of mind that comes along with a <strong>job well done.</strong></li>
+		<li><a href="index.html"><img src="data1/images/mansleeping972x392.jpg" alt="joomla slideshow" title="" id="wows1_2"/></a></li>
+		<li><img src="data1/images/cleanbedroom567x334.jpg" alt="Clean House is a Healthier House" title="Clean House is a Healthier House" id="wows1_3"/>A clean house is important for the health and well-being of your entire family. A dirty house is a germy house, and the best defense against the spread of illnesses is to keep the germs washed away. As an added benefit, the well being of your family is enhanced by an uncluttered atmosphere.</li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Experience the Good Life!"><span><img src="data1/tooltips/cleanliving567x334.jpg" alt="Experience the Good Life!"/>1</span></a>
+		<a href="#" title="Why Us?"><span><img src="data1/tooltips/satisfactionguaranteed498x400.png" alt="Why Us?"/>2</span></a>
+		<a href="#" title=""><span><img src="data1/tooltips/mansleeping972x392.jpg" alt=""/>3</span></a>
+		<a href="#" title="Clean House is a Healthier House"><span><img src="data1/tooltips/cleanbedroom567x334.jpg" alt="Clean House is a Healthier House"/>4</span></a>
+	</div></div>
+	<div class="ws_script" style="position:absolute;left:-99%">
+	<a href="http://wowslider.com">bootstrap slider</a> by WOWSlider.com v8.2</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+
+
+
+<div id="intro">
+	<div id="intro_inner">
+		<a class="button_link call_to_action alignright" href="/contact/"><span>Get it Now!</span></a>
+		<h2>Save a total of $100 OFF! </h2>
+		<h4>$20 off each of your first 5 weekly or biweekly cleanings.</h4>
+		<div class="clearboth"></div>
+	</div><!-- #intro_inner -->
+</div><!-- #intro -->
+
+<div id="content">
+	<div id="content_inner">
+		<div id="main">
+			<div id="main_inner">
+				<div class="page">
+					<p>
+						<img class="alignright" title="" src="images/HappyFamily.png" alt="" />
+					</p>
+					<h3>We have a track record <span style="color: #003366;">that&#8217;s spotless</span></h3>
+					<p>Enjoy your time and your energy and leave the cleaning to the Maids in Georgia. We&#8217;ll bring our own equipment and cleaning solutions. You can enjoy your life again!</p>
+					<p>Here at Maids in Georgia, cleaning your home to a higher standard is our priority. We work hard to provide you with the cleanest, freshest, and healthiest home possible. Our well-trained, knowledgeable cleaning staff is prepared to offer you and your family a deep clean.</p>
+					<p>So whether you’re still searching for a cleaning company or are convinced you’ve found the right one, try hiring our <strong>North Atlanta Maid Service.</strong> We’re sure you’ll be hooked!</p>
+					<p><span class="pullquote quotes aligncenter" style="color:#003366;">Your satisfaction is guaranteed. If we miss something, call us within 24 hours and we will re-clean it free of charge. We offer the most thorough custodial services in the industry. Do not wait, your cleaning team is ready and waiting to dust, vacuum and detail clean every room of your home.</span></p>
+				</div>
+				<div class="clearboth"></div>
+			</div><!-- #main_inner -->
+		</div><!-- #main -->
+		<div class="clearboth"></div>
+	</div><!-- #content_inner -->
+</div><!-- #content -->
+
+<div id="outro">
+	<div id="outro_inner">
+		<p>Maids in Georgia currently offers Cleaning Services in Alpharetta, Atlanta, Buckhead, Buford, Cherokee county, Cumming, Doraville, Duluth, Dunwoody, Johns Creek, Lawrenceville, Milton, Norcross, Roswell, Sandy Springs, Sugar Hill, Suwanee and Woodstock.</p>
+		<div class="clearboth"></div>
+	</div><!-- #outro_inner -->
+</div><!-- #outro -->
+
+<div id="footer">
+	<div class="multibg">
+		<div class="multibg"></div>
+	</div>
+	<div id="footer_inner">
+		<div class="one_half">
+			<div id="contact_form-3" class="widget mysite_contact_form_widget">
+				<h4 class="widgettitle">Email Us</h4>
+				<div id="mysite_form1" class="mysite_form">
+					<form action="index.html#mysite_form1" method="post">
+						<div class="mysite_form_row name_row">
+							<label for="mysite_field01">Name:<span class="star">*</span></label>
+							<input type="text" name="mysite_field01" id="mysite_field01" class="textfield name required" value="" />
+						</div>
+						<div class="mysite_form_row email_row">
+							<label for="mysite_field11">Email:<span class="star">*</span></label>
+							<input type="text" name="mysite_field11" id="mysite_field11" class="textfield email required" value="" />
+						</div>
+						<div class="mysite_form_row textarea_row">
+							<label for="mysite_field21">Message:<span class="star">*</span></label>
+							<textarea name="mysite_field21" id="mysite_field21" class="textarea required" rows="5" cols="40"></textarea>
+						</div>
+						<div class="mysite_form_row">
+							<input type="submit" value="Submit" class="contact_form_submit fancy_button" />
+							<div class="mysite_contact_feedback">
+								<img src="../themes/MaidsInGeorgia/images/assets/transparent.gif" style="background-image: url(../themes/MaidsInGeorgia/images/assets/preloader.png);">
+							</div>
+						</div>
+						<div class="mysite_form_row mysite_required">
+							<input type="text" name="mysite_required" id="mysite_required" />
+						</div>
+						<div class="mysite_form_row mysite_zip_required">
+							<input type="text" name="mysite_zip_required" id="mysite_zip_required" />
+						</div>
+						<div class="mysite_form_row" style="display:none;">
+							<input type="hidden" name="_mysite_form" value="1">
+							<input type="hidden" name="_mysite_form_encode" value="rZLNTsMwEITfhiOqC2mpe-HCEV6h2iTbYojt1D8SKcq74xSv07SNiESvM7OznzcBvuDflrM5v9t77dayscLhBiWI6ldZB_cpukJt9XOwSivUDu4LLfvM47DB-vwDCxf9nM9CZhkj1hcFWptmVzQalm4sKpccmoBPYSX2bey0TZSYgxl4i-htBVYlLQKeHd96RnrMzFgKPXQhyrimxkRDogLZi1kUK8ixulDfQpQnle5ocO-FwfKi2RlPze0IKZtCSuuH3_E6Kt3qpctOYL3WPQY7nwJLmxx-OTAIf_BS_DX8QrD7x3WzIfDZGHDWEY-WkvGuFTa1difFq2HxQdS3Km_bHw">
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="one_fourth">	
+      	<div id="contact-2" class="widget mysite_contact_widget">
+				<h4 class="widgettitle">Contact Us</h4>		
+				<span class="contact_widget_name">610 hembree pkwy, Roswell Ga 30076</span><br /> 										
+				<span class="contact_widget_phone">678-886-0469</span><br /> 				
+				<span class="contact_widget_email">
+					<a href="mailto:maidsinganina@gmail.com" rel="maidsinganina@gmail.com" class="email_link_replace">maidsinganina@gmail.com</a>
+				</span><br /> 
+			</div>
+			<div id="text-9" class="widget widget_text">
+				<h4 class="widgettitle">All Major Credit Cards Accepted</h4>			
+				<div class="textwidget">
+					<p>
+						<img class="alignnone size-full wp-image-47" title="" src="images/visa1.png" alt="" width="48" height="48" />
+						<img class="alignnone size-full wp-image-45" title="" src="images/masterCard1.png" alt="" width="48" height="48" />
+						<img class="alignnone size-full wp-image-42" title="" src="images/amex1.png" alt="" width="48" height="48" />
+						<img class="alignnone size-full wp-image-43" title="" src="images/discover1.png" alt="" width="48" height="48" />
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="one_fourth last">
+			<div id="text-10" class="widget widget_text">
+				<h4 class="widgettitle">Our Partners</h4>			
+				<div class="textwidget">
+					<p>
+						<img src="images/Partners.png" alt="" title="Partners" width="220" height="100" class="alignright size-full wp-image-95" />
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="clearboth"></div>
+	</div><!-- #footer_inner -->
+</div><!-- #footer -->
+
+<div id="sub_footer">
+	<div id="sub_footer_inner">
+		<div class="copyright_text">Copyright © 2014 Maids in Georgia. All Rights Reserved. Site design by <a href="http://browncreativedesign.com" title="Brown Creative Design" target="_blank">Brown Creative Design</a>
+		</div>
+		<div class="footer_links">
+			<ul id="menu-bottom-menu" class="">
+				<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212">
+					<a href="http://maidsinga.com/sitemap/">Sitemap</a>
+				</li>
+			</ul>
+		</div>
+	</div><!-- #sub_footer_inner -->
+</div><!-- #sub_footer -->
+
+</div><!-- #body_inner -->
+
+
+
+
+</body>
+</html>
